@@ -168,7 +168,7 @@ module.exports = webpackAsyncContext;
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! E:\rohit\monumentamerica\monumentamerica\src\main.ts */"zUnb");
+module.exports = __webpack_require__(/*! D:\intelgicprojects\monumentamerica\monumentamerica\src\main.ts */"zUnb");
 
 
 /***/ }),
@@ -1734,7 +1734,7 @@ class AppComponent {
     constructor(loader, http) {
         this.loader = loader;
         this.http = http;
-        this.title = 'OC4D Admin';
+        this.title = 'MONUMENTANERICA';
         this.loading$ = this.loader.loading$;
     }
 }
@@ -2733,7 +2733,7 @@ HeaderComponent.ɵcmp = _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵdefineCo
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](6, "a", 6);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](7, "span", 7);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementStart"](8, "h3", 8);
-        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "OC4D ADMIN ");
+        _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵtext"](9, "MONUMENTAMERICA ");
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelement"](10, "b", 9);
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
         _angular_core__WEBPACK_IMPORTED_MODULE_0__["ɵɵelementEnd"]();
